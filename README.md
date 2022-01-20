@@ -1,6 +1,12 @@
 ## Curate
 
-Art exhibitions app ranking exhibitions by popularity. As exhibitions gain likes they move up the Home page so users can easily see what exhibitions are popular. 
+Art exhibitions app ranking exhibitions by popularity. As exhibitions gain likes they move up the Home page so users can easily see what exhibitions are popular.
+
+* Paired project built entirely with Ruby on Rails and the MVC pattern.
+* Built using RESTful principles.
+* Included analytical and dynamic About page displaying stats for the app.
+* Incorporated Filestack Upload for a smooth UI image upload experience as part of the create exhibition form.
+
 
 ## User stories: 
 
